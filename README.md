@@ -8,9 +8,9 @@ The analysis demonstrates how to:
 - Create mosaics from restored images with varying spectral index
 - Apply masks to isolate **radio bridge regions**
 - Compute flux density ratios:
-  \[
+  $$
   R(\alpha) = \frac{S^{injected}_{400}}{S_{400}}
-  \]
+  $$
 
 ---
 
