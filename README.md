@@ -7,11 +7,7 @@ The analysis demonstrates how to:
 - Inject visibilities into model images
 - Create mosaics from restored images with varying spectral index
 - Apply masks to isolate **radio bridge regions**
-- Compute flux density ratios:
-  $$
-  R(\alpha) = \frac{S^{injected}_{400}}{S_{400}}
-  $$
-
+- Compute flux density ratios:$R(\alpha) = \frac{S^{injected}_{400}}{S_{400}}$
 ---
 
 ## Analysis
